@@ -2,6 +2,8 @@
 
 This is  a simple site to show  Windows users that Linux isn't that bad <3 
 
+here's the site if you dont wan't to host it [SITE](https://switchtolinux-lovat.vercel.app/)
+
 ## Technologies Used
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
